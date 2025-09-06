@@ -1,0 +1,8 @@
+ responses = {
+        "hello": "Hi there!",
+        "hi": "hello",
+        "how are you":"I'm doing well,thank you",
+        "what is your name": "I'm CodeAlphaBot.",
+        "bye":"GoodBye!",
+        "exit":"see you later"
+    }
